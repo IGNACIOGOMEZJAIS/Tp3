@@ -1,0 +1,15 @@
+[
+  {
+    "id": 4,
+    "nombreSuperheroe": "NachoMan",
+    "nombreReal": "Nacho Rodriguez",
+    "nombreSociedad": "strength",
+    "edad": 28,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Luz",
+    "poder": ["Trepar paredes", "Mucha fuerza", "Agilidad"],
+    "habilidadEspecial": "Subir edificios",
+    "aliado": ["Spiderman"],
+    "enemigo": ["Duende azul"]
+  }
+]
